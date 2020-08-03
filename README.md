@@ -18,3 +18,5 @@ We would require Open GL library-glut-3.7.6-bin
 
 Link to download the required libraries-https://www.transmissionzero.co.uk/software/freeglut-devel/
 
+Link to download the Research Paper for the above algorithm- https://reingold.co/tidier-drawings.pdf
+
