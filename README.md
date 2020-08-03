@@ -10,6 +10,6 @@ This class is the crux of the whole project. The setup_tdr function calculates a
 This class implements the Bresenham line and circle drawing algorithm which are used in making trees.
 ### Main Method
 The main function basically handles the input for the different Tree models. We have tried to implement 3 different models as follows:
--<br>A balanced binary tree<br>
+<br>-A balanced binary tree<br>
 -A random tree using random genrator<br>
 -A BST
