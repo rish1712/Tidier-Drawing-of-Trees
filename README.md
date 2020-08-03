@@ -13,3 +13,8 @@ The main function basically handles the input for the different Tree models. We 
 <br>-A balanced binary tree<br>
 -A random tree using random genrator<br>
 -A BST
+## Dependencies
+We would require Open GL library-glut-3.7.6-bin
+
+Link to download the required libraries-https://www.transmissionzero.co.uk/software/freeglut-devel/
+
